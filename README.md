@@ -5,4 +5,4 @@ El programa se encarga de detectar los objetos que se encuentran en la imagen ad
 
 Este trabajo fue realizado en la clase de Pattern Recognition en la Escuela Superior de Computo (IPN).
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.jpg)
